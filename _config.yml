@@ -1,7 +1,7 @@
 name: Storymachine
 favicon: null
-layout_spectrum: 0.05794395785778761
-typography_spectrum: 0.8312279293313622
+layout_spectrum: 0.80541
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.9455201686359942
-  lightness: 0.5517860485706478
-  saturation: 0.8129685481544584
-  rhythmicContrast: 0.33105664514005184
+    - '#000000'
+    - '#3e3f3e'
+    - '#f99f1b'
+    - '#c65b1f'
+    - '#8d9191'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
