@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: The list of factions in the game
-datePublished: '2015-12-15T04:33:27.719Z'
-dateModified: '2015-12-15T04:33:17.265Z'
+datePublished: '2015-12-15T04:43:39.489Z'
+dateModified: '2015-12-15T04:43:34.200Z'
 title: Factions of Storymachine
 author: []
 authors: []
