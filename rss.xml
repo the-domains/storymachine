@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Storymachine]]></title>
-        <description><![CDATA[Storymachine]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Storymachine: Creative Wargaming]]></title>
+        <description><![CDATA[Storymachine: Creative Wargaming]]></description>
+        <link>https://thegrid.ai/storymachine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 04:34:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 04:43:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/storymachine/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Factions of Storymachine]]></title>
             <description><![CDATA[<article><h1>Factions of Storymachine</h1><p>The list of factions in the game</p></article>]]></description>
-            <link>undefinedfactions-of-storymachine/index.html</link>
+            <link>https://thegrid.ai/storymachine/factions-of-storymachine/index.html</link>
             <guid isPermaLink="false">8e41b50e-c8c0-48a2-af26-308328e98661</guid>
-            <pubDate>Tue, 15 Dec 2015 04:33:27 GMT</pubDate>
+            <pubDate>Tue, 15 Dec 2015 04:43:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
